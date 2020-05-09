@@ -3,7 +3,7 @@ date: 2020-05-05 12:00:00
 layout: post
 title: Review Million Dollar Arm
 subtitle: Review Bahasa Indonesia untuk film Million Dollar Arm
-description: *Million Dollar Arm* adalah film yang bercerita tentang*J.B. Bernstein* (JB), seorang agen olahraga yang menciptakan acara reality show The Million Dollar.
+description: Million Dollar Arm adalah film yang bercerita tentang J.B. Bernstein (JB), seorang agen olahraga yang menciptakan acara reality show The Million Dollar.
 image: /assets/img/featured/million-dollar-arm-featured.jpg
 optimized_image: /assets/img/featured/million-dollar-arm-featured.jpg?nf_resize=fit&w=380&h=200
 category: movie
@@ -24,7 +24,7 @@ Dibintangi Jon Hamm dan dua bintang berdarah India yang wajahnya sudah tidak asi
 
 ## Sinopsis Million Dollar Arm
 
-![Million Dollar Arm Poster](/assets/img/upload/million-dollar-arm-poster.jpg)
+![Million Dollar Arm Poster](/assets/img/uploads/million-dollar-arm-poster.jpg)
 
 JB Bernstein bersama Ash Vasudevan mendirikan sebuah perusahaan agen olahraga, sayangnya, semua kliennya kemudian sudah pensiun dari dunia olahraga.
 
