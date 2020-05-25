@@ -2,5 +2,5 @@
 layout: category
 title: Music
 slug: music
-description: A category for music related posts.
+description: BOA.WORLD fun review of music, classic and modern, across all genre from around the world.
 ---

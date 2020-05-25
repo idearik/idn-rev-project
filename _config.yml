@@ -1,13 +1,12 @@
 # Site Settings
-name: Boa.world
-title: Boa.world | GLHF with Yours
+name: BOA.WORLD
+title: BOA.WORLD
 description: Find our short, fun and unique review of your favorite movies, games and anything else.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - movies
+  - books
+  - video games
+  - mobile games
 email: ari@boa.world
 disqus_username: disqus_username
 show_hero: true
