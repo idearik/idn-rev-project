@@ -1,5 +1,5 @@
 ---
-date: 2020-05-27 19:29:37
+date: 2020-05-27T19:29:37.000Z
 layout: post
 title: Climax - Review
 subtitle: A troupe of young dancers accidently took an acid and the rest is misery.
@@ -15,7 +15,7 @@ paginate: true
 ---
 You may know, or at least heard, what an acid trip is. But, do you know what it *really* feels like if you take it for real? Well, Climax will show you how it is.
 
-Climax is a story that loosely based on a true event about a dance troupe doing an after-party after a dance rehearsal. However, things went south after all of them drink a drug-laced sangria (an alcoholic beverage from Spain). The nightmare begins.
+Climax is a story that based on a true event about a dance troupe doing an after-party after a dance rehearsal. However, things went south after all of them drink a drug-laced sangria (an alcoholic beverage from Spain). The nightmare begins.
 
 It opens with a woman dragging her bloody body in the snow while screaming in agony. Then, the credit rolls. From this opening itself we know right away, that we will witness something weird.
 
