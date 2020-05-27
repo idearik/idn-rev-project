@@ -10,8 +10,11 @@ tags:
   - Horror
   - Acid
   - Provocative
+  - Psychological
+  - Movie Review
+  - Climax Review
 author: kevin
-paginate: true
+paginate: false
 ---
 You may know, or at least heard, what an acid trip is. But, do you know what it *really* feels like if you take it for real? Well, Climax will show you how it is.
 
