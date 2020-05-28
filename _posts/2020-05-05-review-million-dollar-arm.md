@@ -1,79 +1,51 @@
 ---
-date: 2020-05-05 12:00:00
+date: 2020-05-05T12:00:00.000Z
 layout: post
 title: Review Million Dollar Arm
-subtitle: Review Bahasa Indonesia untuk film Million Dollar Arm
-description: Million Dollar Arm adalah film yang bercerita tentang J.B. Bernstein (JB), seorang agen olahraga yang menciptakan acara reality show The Million Dollar.
-image: /assets/img/featured/million-dollar-arm-featured.jpg
-optimized_image: /assets/img/featured/million-dollar-arm-featured.jpg?nf_resize=fit&w=380&h=200
+subtitle: One white man try to find people who can throw a fast ball in India.
+description: Story of J.B. Bernstein (JB) and his journey in India to find young
+  man who can throw a ball for "entertainment" purpose. But, learn his lesson in
+  the end. Good movie.
+image: /assets/img/uploads/million-dollar-arm-main-featured.jpg
+optimized_image: ""
 category: movie
 tags:
-  - sports movies
-author: Ari Kurniawan
+  - Sport
+author: ari
+paginate: true
 ---
+This is a sport film about **J.B Bernstein (JB)**. Some people may disagree with the term "sport film" for this one but it also too "technical" to be a biography, so... Let's just called it "sport film" for the sake of simplicity.
 
-Film bertema olahraga memang tidak sebanyak film dengan tema horror, cinta atau komedi. Tapi, bukan berarti film semacam ini tidak berkualitas.
+Million Dollar Arm is a story about reality show called "The Million Dollar Arm" on Indian Zee TV. The winner of this show will receive $100,000 and opportunity to win ONE MILLION DOLLAR (USD) on the bonus round. It's should be called "1.1 MILLION DOLLAR ARM" instead.
 
-Salah satu film bertema olahraga terbaik hingga saat ini adalah *Million Dollar Arm*. Walaupun tidak 100% bercerita tentang olahraga, malah lebih merupakan seorang film biografi, tapi semangat olahraga sangat terasa di film ini.
+The story begin with the failure of JB to signed an American Football rising star to his agency. Then, after talked to his new investor, he pitched new idea about finding potential baseball players in India, one of the largest country on Earth.
 
-*Million Dollar Arm* adalah film yang bercerita tentang*J.B. Bernstein* (JB), seorang agen olahraga yang menciptakan acara reality show The Million Dollar Arm di Zee TV, India.
+His new investor give him one year...
 
-Pada awalnya, acara tersebut dibuat untuk menjaring potensi penonton dari warga India yang jumlahnya sangat banyak dan sangat potensial. Pada akhirnya, acara tersebut membawa *Rinku Singh* dan *Dinesh Patel* menjadi pemain profesional di liga baseball di Amerika Serikat.
+**It's an impossible task.** So, JB, like a smart businessman he is, decline that offer.
 
-Dibintangi Jon Hamm dan dua bintang berdarah India yang wajahnya sudah tidak asing lagi yaitu Suraj Sharma (Berperan sebagai Pi dalam *Life of P*i) serta Madhur Mittal (Berperan sebagai Salim Malik dalam *Slumdog Millionaire*).
+Oh... Actually JB said "YES", going to India and maybe regret his choices by the time he see the wonderful traffic of India.
 
-## Sinopsis Million Dollar Arm
+But, this is a "inspirational" movie from Disney. Everything should be OK in the end. JB found his new players, Rinku Singh and Dinesh Patel, flew them to the US, train them with the best coach, help them signed with professional teams and live happily ever after.
 
-![Million Dollar Arm Poster](/assets/img/uploads/million-dollar-arm-poster.jpg)
+No?
 
-JB Bernstein bersama Ash Vasudevan mendirikan sebuah perusahaan agen olahraga, sayangnya, semua kliennya kemudian sudah pensiun dari dunia olahraga.
+JB still can't move on from his "American Football rising star" deal, he forgot about two young men that he took from India, so they fucked up during test in front of coaches of baseball professional team. But, one girl (his neighbor) made he remember Rinku and Dinesh.
 
-Dia juga gagal menjadikan Popo Vanuatu, seorang pemain *American Football* sebagai klien barunya. Kemudian, dia pun menyadari besarnya potensi yang ada di India, mulai dari potensi atlet hingga pasarnya.
+Long story short, Rinku, Dinesh and JB get their second chances and live happily ever after.
 
-JB pun mendatangi Mr. Chang (seorang investor) untuk menyampaikan idenya dan mengatakan bahwa hasilnya akan berhasil dalam dua tahun.
+![Million Dollar Arm](/assets/img/uploads/million-dollar-arm-poster.jpg)
 
-Mr. Chang kemudian meminta agar rencana tersebut sudah terlihat hasilnya dalam setahun, tanpa memiliki banyak pilihan, JB menyetujuinya dan terciptalah "*Million Dollar Arm*".
+## Review of Million Dollar Arm
 
-*Reality show* ini mencari pemain (pitcher) baseball berbakat dengan mengukur kecepatan serta ketepatan lemparan para pesertanya.
+### Just Another Forgetful Movie from Disney
 
-Selain mendapatkan uang, dua peserta terbaik akan mendapat kesempatan untuk terbang ke Amerika Serikat untuk memperoleh pelatihan serta punya kesempatan menjadi bagian dari liga *baseball* Amerika Serikat.
+Disney doesn't always created masterpiece. There are some class-B movie that actually have super good premise like this movie, but the script just not that good.
 
-JB kemudian menemui Tom House untuk memintanya mengajari para pemenang nantinya untuk bermain baseball, House pun menjelaskan bahwa*baseball* dan *cricket* (olahraga populer India) sangatlah berbeda.
+Personally, I love the main story; a man finally realize his mistakes and make it right.
 
-Mengajari seseorang yang benar-benar baru belajar bermain *baseball* dalam setahun sangatlah sulit, tapi tidak mustahil. JB pun berhasil meyakinkan House untuk mengajari para pemenang nantinya.
+But, the movie feel so bland. Maybe more drama or more action during the pitch can help.
 
-JB menuju India dan melihat kemacetan, kepadatan hingga bagaimana bisnis berjalan di India.
+**Fun Fact:** Did you know that Rinku Singh is now a professional wrestler for WWE? Here a picture of him.
 
-Dia bersama timnya yaitu Ray Poitevint (mantan pencari bakat *basebal*l di Amerika Serikat) dan Amit Rohan (penerjemah/calon pelatih *baseball*). Mereka pun menemukan para pemenangnya yaitu Rinku Singh dan Dinesh Patel.
-
-Keduanya terbang ke Amerika Serikat, namun setelah beberapa "insiden" di hotel, mereka pun tinggal di rumah JB.
-
-JB meninggalkan kedua anak muda ini untuk berlatih bersama House dan para staff-nya, sementara JB pergi mencari klien-klien lain.
-
-Rinku dan Dinesh pun merasa diabaikan. Tetangga JB, Brenda Fenwick adalah orang yang mengerti bagaimana perasaan kedua anak muda yang jauh dari rumahnya ini.
-
-Saat JB mengajak Amit, Rinku dan Dinesh ke sebuah pesta di rumah Popo. Kekacauan terjadi dan JB kehilangan kesempatan keduanya untuk bekerjasama dengan Popo.
-
-Brenda kemudian menyadarkan JB bahwa dia telah memperlakukan Rinku dan Dinseh sebagai objek bisnis. Hari berikutnya, JB menjual *Porsche*-nya dan membeli *Dodge Caravan* serta ikut berdoa bersama mereka.
-
-Saat hari besar tiba, seluruh wartawan telah berkumpul bersama dengan beberapa pencari bakat, sayangnya hasilnya sangatlah buruk.
-
-Baik Rinku maupun Dinesh melempar dengan buruk, tidak tepat bahkan tanpa sasaran. Benar-benar buruk.
-
-Brenda meyakinkan JB bahwa kedua anak muda ini pantas mendapat kesempatan kedua. Tapi Mr. Chang menolak ide tersebut, para pencari bakat pun sudah tidak tertarik lagi dengan Rinku dan Dinesh.
-
-Namun, Ray muncul dan memperkenalkan JB pada kepala pencari bakat dari *Pittsburgh Pirates* dan setuju untuk datang.
-
-Kali ini, JB meminta keduanya untuk santai dan bersenang-senang. Karena, apapun hasilnya, tidak masalah selama keduanya bersenang-senang.
-
-pencari bakat pun di buat terkagum dengan lemparan berkecepatan 85 dan 90 mil/jam apalagi dengan akurasi tinggi. Keduanya pun ditawari kontrak oleh *Pittsburgh Pirates*.
-
----
-
-Hari ini, Dinesh Patel kembali ke India dan berharap bisa bergabung dengan tim nasional *baseball* India, sementara Rinku menetap di Amerika Serikat serta sempat bermain di liga *baseball* Australia.
-
-Film ini memang lebih banyak bercerita tentang JB Bernstein dan *reality show* Million Dollar Arm, tapi juga menceritakan bahwa melalui olahraga bisa mengubah hidup seseorang.
-
-Tekuni apa yang kamu sukai dan hasilnya pasti akan sangat baik. Banyak pelajaran yang bisa diambil dari film ini, jadi jangan lupa menontonya.
-
-Review Million Dollar Arm, Selalu Ada Kesempatan Kedua
+![Rinku Singh WWE](/assets/img/uploads/rinku-singh.jpg)
