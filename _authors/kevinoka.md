@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/fd69a733850498.56ba69ac2f221.png
 name: kevin
 display_name: Kevin Oka
 position: Main Writer
