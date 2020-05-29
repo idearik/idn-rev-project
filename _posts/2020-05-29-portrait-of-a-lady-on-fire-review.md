@@ -13,7 +13,9 @@ tags:
 author: kevin
 paginate: false
 ---
-This is a film that fits with what Scorsese called "Cinema." Portrait of a Lady on Fire, sets in France in 1770, tells a story about Marianne, a painter, that asked to create a wedding portrait of Héloïse, a woman that just left a convent. However, she has to paint Héloïse secretly. In this painting process, Marianne that observes Héloïse every day, slowly falls in love with her. And so does she. Unfortunately, it does not end on a happy note.
+I'm not a person that usually watches a drama/romance film. But this, ladies and gentlemen, is just something that can't be missed. This is a film that fits with what Scorsese called "Cinema." 
+
+Portrait of a Lady on Fire, sets in France in 1770, tells a story about Marianne, a painter, that asked to create a wedding portrait of Héloïse, a woman that just left a convent. However, she has to paint Héloïse secretly. In this painting process, Marianne that observes Héloïse every day, slowly falls in love with her. And so does she. Unfortunately, it does not end on a happy note.
 
 Noémie Merlant and Adèle Haenel give an outstanding performance in here. Their chemistry here is through the roof. We can feel the intimacy and warmness of their relationship throughout the film. Although only one of them is a part of the LGBTQ community, these two portrays the romance between two characters extraordinarily.
 
