@@ -3,17 +3,15 @@ date: 2020-05-27T19:29:37.000Z
 layout: post
 title: Climax - Review
 subtitle: A troupe of young dancers accidently took an acid and the rest is misery.
-description: Climax is a unique movie, a kind of movie that either you like it or you don't
-image: /assets/img/uploads/climax_poster.jpg?nf_resize=fit&w=760&h=399
-optimized_image: /assets/img/uploads/climax_poster.jpg?nf_resize=fit&w=380&h=200
+description: Climax tells a dance troupe unknowingly take an acid and all gone
+  wrong. This is a kind of movie that either you like it or you don't.
+image: /assets/img/uploads/climax_poster_cropped.jpg
+optimized_image: /assets/img/uploads/climax_poster_cropped.jpg
 category: movie
 tags:
   - Horror
-  - Acid
   - Provocative
   - Psychological
-  - Movie Review
-  - Climax Review
 author: kevin
 paginate: false
 ---
