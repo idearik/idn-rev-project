@@ -8,7 +8,6 @@ image: /assets/img/uploads/portrait-of-a-lady-on-fire-1clilies-films-1.jpg
 optimized_image: /assets/img/uploads/portrait-of-a-lady-on-fire-1clilies-films-1.jpg
 category: movie
 tags:
-  - Movie
   - Romance
   - Drama
 author: kevin
