@@ -1,14 +1,13 @@
 # Site Settings
 name: BOA.WORLD
 title: BOA.WORLD
-description: Find our short, fun and unique review of your favorite movies, games and anything else.
+description: Find our short, fun and unique review of your favorite movies, TV-series dan other TV shows.
 tags:
   - movies
-  - books
-  - video games
-  - mobile games
+  - TV series
+  - TV shows
 email: ari@boa.world
-disqus_username: disqus_username
+disqus_username: boaw
 show_hero: true
 menu:
   - title: Home
