@@ -1,5 +1,5 @@
 ---
-date: 2020-06-01 20:06:57
+date: 2020-06-01T20:06:57.000Z
 layout: post
 title: Inglourious Basterds - Review
 subtitle: Tarantino's spectacular, fun, and crazy WWII fiction.
@@ -22,4 +22,4 @@ As any previous Quentin Tarantino movies, the writing is what made this movie so
 
 That slow tempo is show directly on the opening scene. It consists of only conversation between Hans Landa and LaPadite in a room. Although it's only a dialogue, it is as intense and interesting as any action scene. It's masterful writing from Tarantino. The directing is also help that exceptional scene by using close up shot that makes it so gripping to us the audience.
 
-The good directing does not stop there. There are a lot of beautiful shot and excellent camera work throughout the film. For example, the scene in the second chapter when Aldo Raine asks the German soldier to show the location of his fellow soldiers on the map. Rather than use the usual shot reverse shot Another example would be the conversation scene between Hans Landa and Bridget von Hammersmark. The camera circling around them while they speak, make us the viewer feel the nerves of Bridget.
+The good directing does not stop there. There are a lot of beautiful shot and excellent camera work throughout the film. For example, the scene in the second chapter when Aldo Raine asks the German soldier to show the location of his fellow soldiers on the map. Rather than using the usual wide shot or close up shot of each character, Tarantino and his cinematographer Robert Richardson just use one camera and move the camera as three characters speak, shifting over them. Another example would be the conversation scene between Hans Landa and Bridget von Hammersmark. The camera circling around them while they speak, make us the viewer feel the nerves of Bridget.
