@@ -5,8 +5,8 @@ title: Climax - Review
 subtitle: A troupe of young dancers accidently took an acid and the rest is misery.
 description: Climax tells a dance troupe unknowingly take an acid and all gone
   wrong. This is a kind of movie that either you like it or you don't.
-image: /assets/img/uploads/climax_poster_cropped.jpg
-optimized_image: /assets/img/uploads/climax_poster_cropped.jpg
+image: /assets/img/uploads/climax_poster_cropped.jpg?nf_resize=fit&w=760&h=399
+optimized_image: /assets/img/uploads/climax_poster_cropped.jpg?nf_resize=fit&w=380&h=200
 category: movie
 tags:
   - Horror
