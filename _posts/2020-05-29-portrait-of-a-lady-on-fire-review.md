@@ -5,8 +5,8 @@ title: Portrait of a Lady on Fire - Review
 subtitle: A story about a tender love and a painful goodbye.
 description: An intimate romance story of two woman which then separated by
   marriage. A beautifully crafted work of art.
-image: /assets/img/uploads/portrait-of-a-lady-on-fire-1clilies-films-1.jpg?nf_resize=fit&w=760&h=399
-optimized_image: /assets/img/uploads/portrait-of-a-lady-on-fire-1clilies-films-1.jpg?nf_resize=fit&w=380&h=200
+image: /assets/img/uploads/portrait-of-a-lady-on-fire-cropped.jpg
+optimized_image: ""
 category: movie
 tags:
   - Romance
