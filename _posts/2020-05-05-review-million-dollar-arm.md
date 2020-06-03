@@ -7,7 +7,7 @@ description: Story of J.B. Bernstein (JB) and his journey in India to find young
   man who can throw a ball for "entertainment" purpose. But, learn his lesson in
   the end. Good movie.
 image: /assets/img/uploads/million-dollar-arm-image-cropped.jpg
-optimized_image: ""
+optimized_image: /assets/img/uploads/million-dollar-arm-image-cropped.jpg
 category: movie
 tags:
   - Sports
