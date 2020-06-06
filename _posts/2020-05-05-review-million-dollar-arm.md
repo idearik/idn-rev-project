@@ -6,8 +6,8 @@ subtitle: One white man try to find people who can throw a fast ball in India.
 description: Story of J.B. Bernstein (JB) and his journey in India to find young
   man who can throw a ball for "entertainment" purpose. But, learn his lesson in
   the end. Good movie.
-image: /assets/img/uploads/million-dollar-arm-image-cropped.jpg
-optimized_image: /assets/img/uploads/million-dollar-arm-image-cropped.jpg
+image: /assets/img/uploads/million-dollar-arm-image-cropped.jpg?nf_resize=fit&w=760&h=399
+optimized_image: /assets/img/uploads/million-dollar-arm-image-cropped.jpg?nf_resize=fit&w=380&h=200
 category: movie
 tags:
   - Sports

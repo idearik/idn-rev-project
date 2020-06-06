@@ -5,8 +5,8 @@ title: Inglourious Basterds - Review
 subtitle: Tarantino's spectacular, fun, and crazy WWII fiction.
 description: This nazi-killing spectacle is a fun and entertaining war drama
   film. It's arguably Tarantino's best work.
-image: /assets/img/uploads/inglourious_basterds_poster.jpg
-optimized_image: ""
+image: /assets/img/uploads/inglourious_basterds_poster.jpg?nf_resize=fit&w=760&h=399
+optimized_image: /assets/img/uploads/inglourious_basterds_poster.jpg?nf_resize=fit&w=380&h=200
 category: movie
 tags:
   - War
